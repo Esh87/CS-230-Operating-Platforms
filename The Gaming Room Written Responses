@@ -1,0 +1,17 @@
+The Gaming Room Written Responses:
+
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? 
+The Gaming Room was a client that wanted help designing software for their game called “Draw It or Lose It.” They needed the game to work on different platforms like Android, iOS, Windows, and web browsers. Their main goal was to make sure the game could run smoothly and look the same no matter what device someone was using. They also wanted the system to support multiple users and game sessions at once. My job was to create a design document that explained how the software should be built and what features it needed.
+
+What did you do particularly well in developing this documentation? 
+One thing I did well was organizing the design document in a clear and simple way. I made sure to include all the important parts, like how the game should work, what the users would do, and how the system would handle data. I also used diagrams and easy to read sections so that anyone reading it could understand the plan. This helped me stay focused and made it easier to move forward with the coding part. I feel proud of how complete and neat the document turned out.
+
+What about the process of working through a design document did you find helpful when developing the code? 
+Working through the design document helped me a lot when I started writing the code. It gave me a clear plan to follow and helped me think through problems before they came up. I didn’t have to guess what to do next because I already had a good idea of how everything should work. It also helped me make sure the code matched what the client wanted. Having the design written out saved me time and made the process smoother.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? 
+If I could revise one part of my work, I would improve the section about error handling. I didn’t include enough details about what should happen if something goes wrong, like if a user gets disconnected or if the server crashes. To make it better, I would add more examples and explain how the system should respond to different problems. This would make the design stronger and help avoid issues later on.
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing? I interpreted the user’s needs by thinking about how they would play the game and what would make it easy and fun for them. I made sure the design supported multiple users, worked well on different devices, and had a simple layout. It’s important to consider the user’s needs because if the software doesn’t work the way they expect, they won’t want to use it. Good design should always focus on making the experience better for the user.
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application? When I started designing the software, I broke it into smaller parts like the game logic, user interface, and data storage. I used simple drawings, notes, and lists to help organize my ideas. In the future, I would keep using these strategies and also ask for feedback early in the process. I would also use flowcharts and maybe some wireframes to make sure the design is clear. These techniques help me stay organized and make sure the software meets the needs of the client and the users.
